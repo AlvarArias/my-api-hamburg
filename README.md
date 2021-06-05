@@ -26,5 +26,14 @@ https://api-hamburg.herokuapp.com/burgers?q="Lanskrona"
 ```
 It show you all the restaurants information who include q="Lanskrona".
 
+Object parameters:
 
- 
+- id: identificator
+- name = name of the Hamburger
+- restaurant = restaurant's name
+- web : restaurant web page
+- description : hamburger description
+- ingredients : hamburger ingredients
+- adress : restaurant adress.
+
+
