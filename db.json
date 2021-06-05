@@ -1,0 +1,36 @@
+{
+    "burgers": [
+    {
+        "id": 0,
+        "name": "The King Burger",
+        "restaurant": "My Hamburger",
+        "web": "www.myhamburger.se",
+        "description": "the most big ans taste hamburger XXL side.",
+        "ingredients": "200gr meat, tomato, onion, ketchup.",
+        "adress": [
+            {
+                "street": "100",
+                "city": "Lanskrona",
+                "Zip": "1234",
+                "country": "Sweden"
+            }
+        ]    
+    },
+    {
+        "id": 1,
+        "name": "The King Burger 2",
+        "restaurant": "My Hamburger",
+        "web": "www.myhamburger.se",
+        "description": "the most big ans taste hamburger XXL side.",
+        "ingredients": "200gr meat, tomato, onion, ketchup.",
+        "adress": [
+            {
+                "street": "200",
+                "city": "Helsingborg",
+                "Zip": "1235",
+                "country": "Swden"
+            }
+        ]
+    }
+    ]
+}
