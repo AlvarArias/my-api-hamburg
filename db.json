@@ -9,7 +9,7 @@
         "ingredients": "200gr meat, tomato, onion, ketchup.",
         "adress": [
             {
-                "street": "100",
+                "street": "Lanskgatan 50",
                 "city": "Lanskrona",
                 "Zip": "1234",
                 "country": "Sweden"
@@ -18,17 +18,17 @@
     },
     {
         "id": 1,
-        "name": "The King Burger 2",
-        "restaurant": "My Hamburger",
-        "web": "www.myhamburger.se",
-        "description": "the most big ans taste hamburger XXL side.",
-        "ingredients": "200gr meat, tomato, onion, ketchup.",
+        "name": "The King Vego",
+        "restaurant": "My Hamburger Vego",
+        "web": "www.myhamburgervego.se",
+        "description": "the most big ans taste vego hamburger.",
+        "ingredients": "150gr vego meat, tomato, onion.",
         "adress": [
             {
-                "street": "200",
+                "street": "Helsingatan 150",
                 "city": "Helsingborg",
                 "Zip": "1235",
-                "country": "Swden"
+                "country": "Sweden"
             }
         ]
     }
