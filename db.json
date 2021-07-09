@@ -7,6 +7,7 @@
         "time": "Under 30 min",
         "description": "Sugen på hamburgare? Testa att göra dina egna av smakfull nötfärs. Det blir snabbt en ny favoriträtt! Servera med klassiska tillbehör och gärna ugnsrostad potatis..",
         "category": "Kött",
+        "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_101408/cf_259/hamburgare.jpg",
         "job": [
             {
                "ingredients": [
@@ -21,18 +22,70 @@
                 "sallad",
                 "2 tomater",
                 "lök"
-                ]
-                , 
+                ],
+                "extras": [], 
                 "Preparation": [ "Blanda färs med salt, peppar och dijonsenap. Fukta händerna och forma 4 hamburgare (för 4 port).", "Stek hamburgarna i matfettet 2-3 minuter på varje sida, lägg ev. på ost när hamburgarna vänts.", "Servera hamburgarna med bröd, sallad, tomater, lök och gärna ugnsrostade potatisklyftor."]
 
             }
         ],
         "portions": {
                 "Energi": "2538 KJ / 607 kCal",
-                "Fett": "" 
+                "Fett": "",
+                "Salt": "",
+                "Kolhydrater": "",
+                "Protein": "",
+                "Klimatguide": "" 
                 }
 
+    },
+
+    {
+        "id": 1,
+        "name": "Roujiamo - kinesisk hamburgare",
+        "Ingredienser": "19",
+        "time": "Över 60 min",
+        "description": "Roujiamo är en kinesisk gatumatsrätt vars namn betyder ”kött i ett bröd”. Rätten liknar ett fyllt pitabröd eller en platt hamburgare där ett vetebröd fylls med kryddat kött, antingen lamm eller pulled porkliknande fläsk.",
+        "category": "Kött",
+        "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_223270/cf_259/roujiamo_-_kinesisk_hamburgare.jpg",
+        "job": [
+            {
+                "ingredients": [
+                    "1 kg fläsksida eller fläskkarré i bit",
+                    "7 dl vatten",
+                    "1/2 dl shaoxing vin eller torr sherry",
+                    "1 1/2 msk råsocker",
+                    "2 msk japansk soja",
+                    "1 msk kinesisk soja",
+                    "2 cm skivad ingefära",
+                    "2 stjärnanis",
+                    "kanelstång",
+                    "ev 1 tsk hela sichuanpeppar",
+                    "3 lagerblad",
+                    "salt",
+                    "2 1/2 dlhackad koriander"
+                ],
+                "extras": ["Bröd", "8 dl vetemjöl", "2 tsk torrjäst (2 tsk motsvarar ca 8 g)","3/4 tsk salt", "ca 3 dl ljummet vatten"],
+                "Preparation": [
+                    "Skär fläsket i stora tärningar, ca 3 cm. Lägg i en kastrull och fyll med vatten så det täcker. Koka upp och låt koka ca 3 minuter. Lyft upp fläsket och lägg i en bunke. Häll bort vattnet och rengör kastrullen.",
+                    "Lägg tillbaka fläsket i kastrullen. Tillsätt vatten, shaoxing vin, socker, soja, lök, ingefära, stjärnanis, kanel, sichuanpeppar och lagerblad. Koka upp och låt sjuda under lock 1 ½–2 timmar. Köttet är klart när det är mört och faller isär. Smaka av med salt.",
+                    "Bröd: Lägg mjöl, jäst och salt i en bunke. Tillsätt vattnet och knåda till en smidig deg ca 10 minuter. Låt jäsa övertäckt till dubbel storlek, ca 1 timme.",
+                    "Häll ut degen på en mjölad bänk och knåda den. Dela degen i 12 bitar (för 6 port). Lägg en kökshandduk över så de inte torkar.",
+                    "Kavla varje bit till en avlång cigarrliknande form ca 15x5 cm. Vik över på längden och rulla ihop som en ”bulle”. Platta till med handen och kavla till en rund platta ca 10 cm i diameter. Lägg på en plåt och låt vila övertäckta ca 20 minuter. ",
+                    "Stek bröden på medelvärme i en stekpanna ca 2 minuter per sida.",
+                    "Lyft upp köttet och dra/mosa i mindre bitar med två gafflar. Blanda med lite av skyn från kastrullen och koriander. Fyll bröden med köttet och ät direkt."
+                ]
+            }
+        ],
+        "portions": {
+            "Energi": "2571.7 KJ / 614 kCal",
+            "Fett": "20.3 g",
+            "Salt": "3.02 g",
+            "Kolhydrater": "65.1 g",
+            "Protein": "38.1 g",
+            "Klimatguide": "0,5 - 1,40 kg CO2e/portion"
+        }
     }
+
     ],
     "categories": [ 
         {
